@@ -9,13 +9,48 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CyxApp">
-        <meta-data
-            android:name="com.google.android.actions"
-            android:resource="@xml/color" />
-
+        <activity
+            android:name=".MainActivity10"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity9"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity8"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity7"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity6"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity5"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity4"
+            android:exported="true" /> <!-- <service -->
+        <!-- android:name=".MyService2" -->
+        <!-- android:enabled="true" -->
+        <!-- android:exported="true"></service> -->
+        <!-- <service -->
+        <!-- android:name=".MyService1" -->
+        <!-- android:enabled="true" -->
+        <!-- android:exported="true"></service> -->
+        <!-- <activity -->
+        <!-- android:name=".MainActivity3" -->
+        <!-- android:exported="true" /> -->
+        <!-- <activity -->
+        <!-- android:name=".MainActivity2" -->
+        <!-- android:exported="true"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.intent.action.MAIN" /> -->
+        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </activity> -->
         <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:enabled="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

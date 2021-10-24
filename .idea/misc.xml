@@ -4,11 +4,21 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main10.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main2.xml" value="0.223731884057971" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main3.xml" value="0.223731884057971" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main4.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main5.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main6.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main7.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main8.xml" value="0.23097826086956522" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/activity_main9.xml" value="0.2265625" />
         <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/bottom.xml" value="0.2" />
         <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/fragment_config.xml" value="0.11727456940222898" />
         <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/fragment_contact.xml" value="0.11727456940222898" />
-        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/fragment_friend.xml" value="0.11727456940222898" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/fragment_friend.xml" value="0.2" />
         <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/fragment_wechat.xml" value="0.11727456940222898" />
+        <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/item.xml" value="0.24048913043478262" />
         <entry key="..\:/Users/-_-/AndroidStudioProjects/cyxApp/app/src/main/res/layout/top.xml" value="0.11727456940222898" />
       </map>
     </option>
